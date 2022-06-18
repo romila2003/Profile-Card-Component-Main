@@ -23,9 +23,9 @@ main {
     background-size: auto;
     background-image: url(/images/bg-pattern-top.svg), url(/images/bg-pattern-bottom.svg);
     background-repeat: no-repeat;
-    background-position: right 50vh, bottom 45vh, left 48vh, top 50vh;
-    background-position-x: right 50vw, left 48vw; 
-    background-position-y: bottom 45vh, top 50vh;
+    background-position: right 35vw bottom 50vh, left 40vw top 45vh;
+    background-position-x: right 35vw, left 40vw; 
+    background-position-y: bottom 50vh, top 45vh;
 }
 
 .profile-card {
