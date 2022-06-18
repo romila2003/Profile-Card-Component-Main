@@ -23,11 +23,10 @@ main {
     background-size: auto;
     background-image: url(/images/bg-pattern-top.svg), url(/images/bg-pattern-bottom.svg);
     background-repeat: no-repeat;
+    background-position: right 50vh, bottom 45vh, left 48vh, top 50vh;
     background-position-x: right 50vw, left 48vw; 
     background-position-y: bottom 45vh, top 50vh;
 }
-
-
 
 .profile-card {
     background-color: #ffffff;
@@ -43,7 +42,7 @@ main {
     border-radius: 13px 13px 0 0;
 }
 
-
+/* TOP HALF OF CARD */
 
 img {
     border-radius: 50%;
@@ -51,6 +50,8 @@ img {
     margin-left: 35%;
     margin-top: -20%;
 }
+
+/* BOTTOM HALF OF CARD */
 
 .top-desc {
     text-align: center;
@@ -119,6 +120,8 @@ img {
     margin-top: -38px;
     margin-left: 180px;
 }
+
+/* FOOTER */
 
 .attribution {
     font-size: 12px;
