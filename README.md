@@ -25,11 +25,11 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![screenshot](https://github.com/romila2003/404-Page/blob/main/screenshot.PNG](https://github.com/romila2003/Profile-card-component-main/blob/main/profile-component.PNG)
+![screenshot](https://github.com/romila2003/Profile-card-component-main/blob/main/profile-component.PNG)
 
 ### Links
 
-  [Github/Source code](https://your-solution-url.com](https://github.com/romila2003/Profile-card-component-main)
+  [Source code](https://github.com/romila2003/Profile-card-component-main)
   [Live Website](https://victor-profile-card-component.netlify.app/)
 
 ## My process
