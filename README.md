@@ -25,7 +25,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![https://github.com/romila2003/Profile-card-component-main/blob/main/profile-component.PNG]
+(https://github.com/romila2003/Profile-card-component-main/blob/main/profile-component.PNG)
 
 ### Links
 
