@@ -29,8 +29,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
- - Source code: [Source code](https://github.com/romila2003/Profile-card-component-main)
- - Live website: [Live Website](https://victor-profile-card-component.netlify.app/)
+ - Source code: [https://github.com/romila2003/Profile-card-component-main](https://github.com/romila2003/Profile-card-component-main)
+ - Live website: [https://victor-profile-card-component.netlify.app/](https://victor-profile-card-component.netlify.app/)
 
 ## My process
 
